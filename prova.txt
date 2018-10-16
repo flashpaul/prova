@@ -1,5 +1,6 @@
 ciao Taglio, come stai?
 <<<<<<< HEAD
+<<<<<<< HEAD
 Ciao Paul, bene, tu?
 fedkgslkrrlòewmrklòmew
 khgjhgjh
@@ -11,3 +12,8 @@ fedkgslkrrlòewmrklòmew
 >>>>>>> e91cc05ad02a12d90fcf5a5e3582f0aff98161a8
 >>>>>>> 5abdbcc16ebe62249bc75c15040a1611438f8ae7
 vaffanculo
+=======
+anche io
+Ciao Paul, bene, tu?
+
+>>>>>>> fb022b28371b48a10b91d2388f98165627bc6655
