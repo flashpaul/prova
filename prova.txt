@@ -1,7 +1,11 @@
 ciao Taglio, come stai?
 <<<<<<< HEAD
+<<<<<<< HEAD
 anche io
 =======
+=======
+>>>>>>> 1129ef00aab8b2168ef8990f0afa8119fabfb27f
 Ciao Paul, bene, tu?
 fedkgslkrrlòewmrklòmew
->>>>>>> e91cc05ad02a12d90fcf5a5e3582f0aff98161a8
+khgjhgjhkhgjhgjh
+khgjhgjh
