@@ -1,2 +1,6 @@
 ciao Taglio, come stai?
+<<<<<<< HEAD
 anche io
+=======
+fedkgslkrrlòewmrklòmew
+>>>>>>> e91cc05ad02a12d90fcf5a5e3582f0aff98161a8
